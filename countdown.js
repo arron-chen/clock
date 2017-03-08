@@ -6,7 +6,7 @@ var MARGIN_TOP = 60;
 var MARGIN_LEFT = 30;
 
 //设置截止时间
-const endTime = new Date(2017, 2, 8, 12, 00, 00);
+const endTime = new Date(2017, 2, 8, 18, 00, 00);
 var curShowTimeSeconds = 0;
 
 //生成小球
