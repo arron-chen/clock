@@ -1,6 +1,7 @@
 var WINDOW_WIDTH = 900;
 var WINDOW_HEIGHT = 500;
 
+
 var RADIUS = 6;
 var MARGIN_TOP = 60;
 var MARGIN_LEFT = 30;
